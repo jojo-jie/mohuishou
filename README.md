@@ -1,9 +1,14 @@
-⭐ Hello, 我是 Mohuishou 目前就职于深圳某厂，主要写 Golang，偶尔也写写前端，少量写一写 ruby 代码，欢迎 Follow
+<div>
 
-<table>
-  
-<tr>
-<td valign="top"  width="50%">
+⭐ Hello, 我是 Mohuishou 目前就职于深圳某厂，主要写 Golang，偶尔也写写前端，少量写一写 ruby
+代码，欢迎 Follow
+
+[![Mohuishou's github
+stats](https://github-readme-stats.vercel.app/api?username=mohuishou&count_private=true&show_icons=true)](https://github.com/mohuishou)
+
+<div style="display: flex;">
+
+<div style="flex: 1; border-right: 1px solid #dddd; padding: 0 10px;">
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
@@ -13,28 +18,20 @@
 - [Go工程化(六) 配置管理 - 2021-03-05](https://lailin.xyz/post/go-training-week4-config.html)
 - [Go工程化(五) API 设计下: 基于 protobuf 自动生成 gin 代码 - 2021-03-03](https://lailin.xyz/post/go-training-week4-protoc-gen-go-gin.html)
 
-</td>
-<td valign="top"  width="50%">
+</div>
 
-#### 💹 [Github Stats](https://github.com/mohuishou)
-
-[![Mohuishou's github stats](https://github-readme-stats.vercel.app/api?username=mohuishou&count_private=true&show_icons=true)](https://github.com/mohuishou)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top"  width="50%">
+<div style="flex: 1; border-right: 1px solid #dddd; padding: 0 10px;">
 
 #### 👀 Follow Me
 
-- [博客](https://lailin.xyz)
-- [Github](https://github.com/mohuishou)
-- [知乎](https://www.zhihu.com/people/mo-hui-shou-76)
-- [开发者头条](https://toutiao.io/subjects/387401?f=new)
+  - [博客](https://lailin.xyz)
+  - [Github](https://github.com/mohuishou)
+  - [知乎](https://www.zhihu.com/people/mo-hui-shou-76)
+  - [开发者头条](https://toutiao.io/subjects/387401?f=new)
 
-</td>
-<td valign="top"  width="50%">
+</div>
+
+<div style="flex: 1; border-right: 1px solid #dddd; padding: 0 10px;">
 
 #### 🛠 Projects
 
@@ -42,18 +39,9 @@
 - [go-algorithm](https://github.com/mohuishou/go-algorithm)
 - [We川大小程序-前端](https://github.com/mohuishou/scuplus-wechat)
 - [We川大小程序-后端](https://github.com/mohuishou/scuplus-go)
-- [PHP 验证码识别](https://github.com/mohuishou/ImageOCR)
+- [PHP验证码识别](https://github.com/mohuishou/ImageOCR)
 
-</td>
-</tr>
 
-</table>/td>
-</tr>
-
-</table>table>/tr>
-
-</table>
-</td>
-</tr>
-
-</table>
+</div>
+</div>
+</div>
