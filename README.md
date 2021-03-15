@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [评论系统架构设计（一）功能拆分&架构设计 - 2021-03-14](https://lailin.xyz/post/go-training-week5-comment-design-1.html)
 - [Go工程化(九) 项目重构实践 - 2021-03-11](https://lailin.xyz/post/go-training-week4-practice.html)
 - [Go工程化(八) 单元测试 - 2021-03-09](https://lailin.xyz/post/go-training-week4-unit-test.html)
 - [Go工程化(七) Go Module - 2021-03-06](https://lailin.xyz/post/go-training-week4-go-module.html)
 - [Go工程化(六) 配置管理 - 2021-03-05](https://lailin.xyz/post/go-training-week4-config.html)
-- [Go工程化(五) API 设计下: 基于 protobuf 自动生成 gin 代码 - 2021-03-03](https://lailin.xyz/post/go-training-week4-protoc-gen-go-gin.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -46,6 +46,8 @@
 
 </td>
 </tr>
+
+</table>/tr>
 
 </table>com/mohuishou/ImageOCR)
 
