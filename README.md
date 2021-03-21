@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
-- [评论系统架构设计（一）功能拆分&架构设计 - 2021-03-14](https://lailin.xyz/post/go-training-week5-comment-design-1.html)
+- [评论系统架构设计 - 2021-03-14](https://lailin.xyz/post/go-training-week5-comment-design-1.html)
 - [Go工程化(九) 项目重构实践 - 2021-03-11](https://lailin.xyz/post/go-training-week4-practice.html)
 - [Go工程化(八) 单元测试 - 2021-03-09](https://lailin.xyz/post/go-training-week4-unit-test.html)
 - [Go工程化(七) Go Module - 2021-03-06](https://lailin.xyz/post/go-training-week4-go-module.html)
-- [Go工程化(六) 配置管理 - 2021-03-05](https://lailin.xyz/post/go-training-week4-config.html)
+- [Go工程化(六) 配置管理 - 2021-03-04](https://lailin.xyz/post/go-training-week4-config.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -43,6 +43,11 @@
 - [We川大小程序-前端](https://github.com/mohuishou/scuplus-wechat)
 - [We川大小程序-后端](https://github.com/mohuishou/scuplus-go)
 - [PHP 验证码识别](https://github.com/mohuishou/ImageOCR)
+
+</td>
+</tr>
+
+</table>u/ImageOCR)
 
 </td>
 </tr>
