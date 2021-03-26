@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Go可用性(一) 隔离设计 - 2021-03-25](https://lailin.xyz/post/go-training-week6-usability-1-bulkhe.html)
 - [Go并发编程(十二) Singleflight - 2021-03-21](https://lailin.xyz/post/go-training-week5-singleflight.html)
 - [评论系统架构设计 - 2021-03-14](https://lailin.xyz/post/go-training-week5-comment-design-1.html)
 - [Go工程化(九) 项目重构实践 - 2021-03-11](https://lailin.xyz/post/go-training-week4-practice.html)
 - [Go工程化(八) 单元测试 - 2021-03-09](https://lailin.xyz/post/go-training-week4-unit-test.html)
-- [Go工程化(七) Go Module - 2021-03-06](https://lailin.xyz/post/go-training-week4-go-module.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -48,8 +48,6 @@
 </tr>
 
 </table>
-</td>
-</tr>
 
 </table>/tr>
 
