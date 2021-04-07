@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Go可用性(四) 限流3: 漏桶算法 - 2021-04-07](https://lailin.xyz/post/go-training-week6-4-leaky-bucket.html)
 - [Go可用性(三) 限流2: 令牌桶的实现 rate/limt - 2021-04-01](https://lailin.xyz/post/go-training-week6-3-token-bucket-2.html)
 - [Go可用性(二) 限流1: 令牌桶原理及使用 - 2021-03-28](https://lailin.xyz/post/go-training-week6-2-token-bucket-1.html)
 - [Go可用性(一) 隔离设计 - 2021-03-25](https://lailin.xyz/post/go-training-week6-usability-1-bulkhe.html)
 - [Go并发编程(十二) Singleflight - 2021-03-21](https://lailin.xyz/post/go-training-week5-singleflight.html)
-- [评论系统架构设计 - 2021-03-14](https://lailin.xyz/post/go-training-week5-comment-design-1.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -47,6 +47,4 @@
 </td>
 </tr>
 
-</table>>
-</div>
-</div>
+</table>iv>
